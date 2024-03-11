@@ -16,7 +16,7 @@ python project/app.py -d
 ```
 ## To get help
 ```sh
-python blogscraper/app.py -h
+python project/app.py -h
 ```
 
 ## Reference
